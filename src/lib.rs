@@ -1,3 +1,5 @@
+pub mod gpu_setup;
+
 use std::sync::Arc;
 
 use winit::{
